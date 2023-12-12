@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kristiansotiri
 - 👀 I’m interested in Learning More Things in Coding
-- 🌱 I’m currently learning HTML & CSS & JAVA 
+- 🌱 I’m currently learning HTML & CSS & C# 
 - 📫 Make Your Ideas Come to Life kristiansotiri1@gmail.com
 - 🌐 My Official WebSite https://chriservices.great-site.net/index.html
 
